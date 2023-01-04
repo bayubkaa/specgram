@@ -1,0 +1,6 @@
+config:
+  classes: ['EQ', 'NO']
+  resize: 224
+  learning_rate: 0.001
+  batch_size: 16
+  num_epochs: 50
